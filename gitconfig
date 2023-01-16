@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = candice.fays@ymail.com
+	name = exec zsh
